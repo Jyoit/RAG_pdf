@@ -1,3 +1,5 @@
+
+# Import required libraries
 import streamlit as st
 from rag_pipline import (
     extract_text_from_pdf,
@@ -8,7 +10,7 @@ from rag_pipline import (
     generate_response
 )
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, GoogleGenerativeAI
-import os
+# import os
 
 
 def main():
