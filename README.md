@@ -26,8 +26,8 @@ This project is a **PDF-based Question Answering Chatbot** that uses Retrieval-A
 ### 1. Clone the repository
 
 ```bash```
-git clone https://github.com/your-username/rag-pdf-chatbot.git
-cd rag-pdf-chatbot
+git clone https://github.com/Jyoit/RAG_pdf.git
+cd RAG_pdf
 
 ### 2. Create a virtual environment
 python -m venv venv
